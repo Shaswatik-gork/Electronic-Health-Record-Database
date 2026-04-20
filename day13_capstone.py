@@ -1,6 +1,6 @@
 # =============================================================================
-# ELECTRONIC HEALTH RECORD DATABASE — AGENTIC AI CAPSTONE PROJECT
-# Agentic AI Hands-On Course 2026 | Dr. Kanthi Kiran Sirra
+# ELECTRONIC HEALTH RECORD DATABASE — DATA ENGINEERING CAPSTONE PROJECT
+# Data Engineering Hands-On Course 2026 
 # Domain  : Electronic Health Record (EHR) Database System
 # User    : Hospital Admin Staff
 # LLM     : Groq (llama-3.3-70b-versatile) | DB: MySQL | Deployment: Streamlit
