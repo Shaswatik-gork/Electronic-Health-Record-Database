@@ -1,4 +1,4 @@
-# Electronic Health Record Database — Agentic AI Capstone
+# Electronic Health Record Database — Data Engineering Capstone
 
 **Domain:** Electronic Health Record (EHR) Database System  
 **User:** Hospital Admin Staff  
