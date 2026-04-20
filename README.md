@@ -2,7 +2,7 @@
 
 **Domain:** Electronic Health Record (EHR) Database System  
 **User:** Hospital Admin Staff  
-**LLM:** Groq (llama3-8b-8192) | **Database:** MySQL | **UI:** Streamlit
+**LLM:** Groq: llama-3.3-70b-versatile | **Database:** MySQL | **UI:** Streamlit
 
 ---
 
