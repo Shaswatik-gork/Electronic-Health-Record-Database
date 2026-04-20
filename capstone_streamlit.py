@@ -203,4 +203,4 @@ if prompt := st.chat_input("Ask about patients, medications, lab results, diagno
         st.session_state.staff_name = result["staff_name"]
 
 st.divider()
-st.caption("EHR Database System | MySQL Backend | Agentic AI Capstone 2026 | All data shown is synthetic mock data.")
+st.caption("EHR Database System | MySQL Backend | Data Engineering Capstone 2026 | All data shown is synthetic mock data.")
