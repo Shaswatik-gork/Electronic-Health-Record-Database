@@ -1,7 +1,6 @@
 -- =============================================================================
 -- EHR DATABASE — MySQL Schema + Seed Data (10 Patients)
 -- Electronic Health Record Database System
--- Agentic AI Capstone 2026 | Dr. Kanthi Kiran Sirra
 -- Run: mysql -u root -p < ehr_schema.sql
 -- NOTE: All patient data is entirely synthetic/fictional for educational use.
 -- =============================================================================
